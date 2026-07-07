@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "e": "AQAB",
+      "use": "sig",
+      "kid": "uma-infinity",
+      "alg": "RS384",
+      "n": "3gs8uXLobPdg7YSyx8OcgHMXvm3HLA5txLWpHk5joeeWcUbdktQzuLEDqrlYKKv4fA9k0l0z1HRLtWA5aQry2nRr-DRWnnSZK57h2jUSrJCao_cYwu9FQWWCWoadtysBGSBmkImuqTc6UMez-DA8QVEnzhHpPlBd52YhpgPjkgGoAFrAOP_XPWarEsXfigzXJnHdIgOdouHme-nrwcxZIO3JIK-5AcohZ6NAVSIntXAFb8Y9Eqi9zS3lXgMhf6Mdhfq9VMMfvgK476h5tfw6mcOXkROgO4_uqaoXtATkExoFHzKUaRmlUKAw5MjqsnHEvOPLSHaq36Zt4HoMhPDMXQ"
+    }
+  ]
+}
